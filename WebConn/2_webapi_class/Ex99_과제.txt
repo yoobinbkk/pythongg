@@ -1,0 +1,7 @@
+1. requests.get() 과 urllib.request.urlopen() 차이
+
+request.get()는 get,
+
+2. urllib.parse.urlparse()와 BeautifulSoap 이용과의 차이
+
+
